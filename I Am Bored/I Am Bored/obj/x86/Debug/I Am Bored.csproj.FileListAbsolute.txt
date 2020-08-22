@@ -1,0 +1,17 @@
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.csprojAssemblyReference.cache
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I_Am_Bored_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\_I Am Bored.g.cs
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\Workflow1.g.cs
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I_Am_Bored_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\bin\Debug\I Am Bored.exe.config
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\bin\Debug\I Am Bored.exe
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\bin\Debug\I Am Bored.pdb
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.csproj.FileListAbsolute.txt
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.csproj.XamlPass2Flag.txt
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.dll
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.pdb
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\Excalibur\source\repos\I Am Bored\I Am Bored\obj\x86\Debug\I Am Bored.exe
